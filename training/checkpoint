@@ -1,0 +1,6 @@
+model_checkpoint_path: "/home/callum/Coding/deeplearning/tf-obj/training/model.ckpt-30000"
+all_model_checkpoint_paths: "/home/callum/Coding/deeplearning/tf-obj/training/model.ckpt-23510"
+all_model_checkpoint_paths: "/home/callum/Coding/deeplearning/tf-obj/training/model.ckpt-25267"
+all_model_checkpoint_paths: "/home/callum/Coding/deeplearning/tf-obj/training/model.ckpt-27024"
+all_model_checkpoint_paths: "/home/callum/Coding/deeplearning/tf-obj/training/model.ckpt-28786"
+all_model_checkpoint_paths: "/home/callum/Coding/deeplearning/tf-obj/training/model.ckpt-30000"
