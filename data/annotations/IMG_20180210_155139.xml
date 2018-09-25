@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data</folder>
+	<filename>IMG_20180210_155139.jpg</filename>
+	<path>/home/extra/labelImg/data/IMG_20180210_155139.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>810</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>box</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>248</xmin>
+			<ymin>228</ymin>
+			<xmax>407</xmax>
+			<ymax>362</ymax>
+		</bndbox>
+	</object>
+</annotation>

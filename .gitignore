@@ -1,5 +1,6 @@
 ssd_mobilenet_v1_coco_2017_11_17/*
-data/*
+data/frcbox_train.record
+data/images/*
 old_data/*
 frcbox_train.record
 output_inference_graph.pb/*
